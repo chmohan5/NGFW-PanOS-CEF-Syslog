@@ -1,6 +1,8 @@
 # NGFW-PanOS-CEF-Syslog
 PAN OS NGFW Syslog CEF templates
 
+[Documentation Link] :  (https://docs.paloaltonetworks.com/resources/cef)
+
 In order to configure Syslog forwarding to XSIAM server, below are CEF templates to be used for different event types. PAN OS NGFW firewalls has different types of logs which can be forwarded to a syslog server. Below are the different event categories available :
 
 1. Config 
@@ -20,6 +22,8 @@ In order to configure Syslog forwarding to XSIAM server, below are CEF templates
 15. SCTP 
 16. GlobalProtect
 17. Decryption
+
+
 
 
 
